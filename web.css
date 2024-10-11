@@ -1,0 +1,43 @@
+.row{
+    background-color: black;
+    height: 90px;
+
+}
+.container1{
+    background-color:;
+    height: 100%;
+    
+}
+.h4{
+    width: fit-content;
+    left: 40%;
+    bottom: 390px;
+}
+.h4:hover{
+    bottom: 380px;
+    top: 30px;
+}
+.h1{
+    width: fit-content;
+    left: 20%;
+    bottom: 380px;
+}
+.h1:hover{
+    bottom: 380px;
+    top: 3px;
+
+}
+.btn{
+    left: 50%;
+
+    
+
+}
+.col{
+    left: 150px;
+}
+.btn2{
+    left: 35px;
+    
+ 
+}
